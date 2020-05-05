@@ -31,3 +31,6 @@ text classification and polarity detection over it.
 | Classification.ipynb   | Main ipynb file used for classification |
 | Enhanced_Classification.ipynb | Innovations for enhancing classification      |
 | Merging CSVs.ipynb | How we merged the CSV files |
+
+## Helpful Links
+[The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
