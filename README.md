@@ -1,5 +1,5 @@
 # Text-Classification-CZ4034
-CZ4034 Information Retrieval Course Assignment 
+**CZ4034 Information Retrieval Course Assignment**
 
 In this assignment, you will build an information retrieval system for sentiment analysis. In particular, you
 will 1) crawl a text corpus of your interest, 2) build a search engine to query over the corpus, and 3) perform
