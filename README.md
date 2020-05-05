@@ -11,7 +11,7 @@ text classification and polarity detection over it.
 
 ![Image of Results](https://i.imgur.com/XsYRxRY.png)
 
-- Visualizing text data using LDAvis
+- Visualizing text data using LDAvis (Click on image for video)
 
 [![video](https://i.imgur.com/C79cn7Q.png)](https://youtu.be/ppSPlAYq3vA)
 
