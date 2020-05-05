@@ -24,7 +24,7 @@ text classification and polarity detection over it.
 
 | File       | Description           |
 | :------------- |:-------------|
-| Data Visualization     | Simple UI for visualizing text data using LDAvis |
+| Data Visualization     | Simple visualization of text data using LDAvis |
 | Report and PPT | Report and slides for video presentation      |
 | Text Data    | Contains all CSV files extracted from web crawling      |
 | CZ4034 Assignment Objectives.pdf    | Coursework description and objectives      |
