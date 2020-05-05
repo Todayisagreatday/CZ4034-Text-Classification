@@ -34,3 +34,5 @@ text classification and polarity detection over it.
 
 ## Helpful Links
 [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+[General approach to preprocessing text data](https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html)
+
