@@ -3,10 +3,12 @@
 
 <h3>Assignment Objectives</h3>
 
+<b>Task</b>
+
 In this assignment, you will build an information retrieval system for sentiment analysis. In particular, you
 will 1) crawl a text corpus of your interest, 2) build a search engine to query over the corpus, and 3) perform
 text classification and polarity detection over it.
-- Summary of work done
+- Overview
 
 ![Image of Summary](https://i.imgur.com/S4ERSQC.png)
 - Results of classification models
