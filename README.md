@@ -32,8 +32,8 @@ text classification and polarity detection over it.
 | Report and PPT | Report and slides for video presentation      |
 | Text Data    | Contains all CSV files extracted from web crawling      |
 | CZ4034 Assignment Objectives.pdf    | Coursework description and objectives      |
-| Classification.ipynb   | Main ipynb file used for classification |
-| Enhanced_Classification.ipynb | Innovations for enhancing classification      |
+| [Classification.ipynb](https://nbviewer.jupyter.org/github/Todayisagreatday/CZ4034-Text-Classification/blob/master/Classification.ipynb)   | Main ipynb file used for classification |
+| [Enhanced_Classification.ipynb](https://nbviewer.jupyter.org/github/Todayisagreatday/CZ4034-Text-Classification/blob/master/Enhanced_Classification.ipynb) | Innovations for enhancing classification      |
 | Merging CSVs.ipynb | How we merged the CSV files |
 
 ## Helpful Links
