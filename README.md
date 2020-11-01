@@ -35,6 +35,7 @@ text classification and polarity detection over it.
 | [Classification.ipynb](https://nbviewer.jupyter.org/github/Todayisagreatday/CZ4034-Text-Classification/blob/master/Classification.ipynb)   | Main ipynb file used for classification |
 | [Enhanced_Classification.ipynb](https://nbviewer.jupyter.org/github/Todayisagreatday/CZ4034-Text-Classification/blob/master/Enhanced_Classification.ipynb) | Innovations for enhancing classification      |
 | Merging CSVs.ipynb | How we merged the CSV files |
+| [Visualizing Text Data.ipynb](https://nbviewer.jupyter.org/github/Todayisagreatday/CZ4034-Text-Classification/blob/master/Visualizing%20Text%20Data.ipynb) | Visualizing Text Data using pyLDAvis |
 
 ## Helpful Links
 [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
